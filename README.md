@@ -32,7 +32,6 @@ This research project aims to bridge the gap between traditional credit assessme
 
 - **Code:** Python scripts for data preprocessing, model development, and evaluation.
 - **Dataset:** The dataset used for analysis and model training.
-- **Documentation:** Detailed documentation on methodology, model evaluation, and results.
 - **README.md:** Overview of the project, objectives, approach, and impact.
 
 ## Contributors
